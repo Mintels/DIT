@@ -17,7 +17,7 @@ DIT (formerly DVF) is a Discord bot I developed to share program information, an
 - **Deployed across 150+ servers** and achieved **Discord Verified Program status** (checkmark), officially recognized by Discord.  
 - Handled **1,000+ activations** and processed **500+ messages** from both slash commands and text commands.  
 - Improved community engagement by providing fast, automated support and consistent information.
-- Worked with multiple creators who has over **1 million followers** on all platforms.
+- Worked with multiple creators who have over **1 million followers** on all platforms.
 - **Official Bot** for DevourFuture, the academy of a Esports Organization and Talent Agency with hundreds of thousands of followers across all platforms.
 ---
 
